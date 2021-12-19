@@ -5,7 +5,7 @@ Since I'm learning about classical time series analysis at school and recent dev
  - Basic theory behind deep learning
  - Methods to train neural netowrks
  - PyTorch
- - How to use and implement RNN, LSTM, GANS, and ConvNets
+ - How to use and implement RNN, LSTM, GAN, and ConvNets
 
 ## Future Work
 I plan on learning about reinforcement learning, since it may work on time series, through [David Silver's lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0) and by working through [OpenAI's Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html) and implementing some basic algorithms (atleast VPG, PPO, DQN for now).
