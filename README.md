@@ -8,4 +8,4 @@ Since I'm learning about classical time series analysis at school and recent dev
  - How to use and implement RNN, LSTM, GAN, and ConvNets
 
 ## Future Work
-I plan on learning about reinforcement learning, since it may work on time series, through [David Silver's lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0) and by working through [OpenAI's Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html) and implementing some basic algorithms (atleast VPG, PPO, DQN for now).
+I plan on learning about reinforcement learning, since it may work on time series, through [David Silver's lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0) and by working through [OpenAI's Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html) and implementing some basic algorithms (atleast VPG, PPO, DQN for now). I'm tracking some of my progress on [this repository](https://github.com/CamN129/Reinforcement-Learning-Implementation_
